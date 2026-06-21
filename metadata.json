@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Oferta Milionária AI",
+  "description": "Mesa de 12 Especialistas IAs em Marketing Digital para analisar ofertas e reconstruir páginas de vendas, VSL, criativos e funis completadas por um Diretor de Marketing IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
